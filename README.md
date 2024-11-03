@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghad Suwan</h1>
 <h3 align="center">Software Engineer | A passionate frontend developer from Palestine</h3>
-
+<h2 align="left" >About Me</h2>
+<p align="left" > A Software Engineer who focuses on Front-end development . Intern equipped with problem-solving skills . I have a strong passion for web development, and I aspire to further develop my skills in Front-end development and other various fields and gaining experience in this fields </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghad-suwan&label=Profile%20views&color=0e75b6&style=flat" alt="raghad-suwan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghad-suwan" alt="raghad-suwan" /></a> </p>
